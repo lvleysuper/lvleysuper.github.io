@@ -27,8 +27,8 @@ collections:
   docs:
     output: true
 
-# gems:
-#  - jekyll-paginate
+gems:
+  - jekyll-paginate
 
 plugins:
   - jekyll-feed
