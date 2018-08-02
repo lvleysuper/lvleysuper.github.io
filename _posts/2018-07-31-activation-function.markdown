@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "machine_learning"
+category: "machine learning"
 title:  "激活函数"
 tags: [机器学习,激活函数]
 ---
